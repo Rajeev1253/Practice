@@ -1,0 +1,50 @@
+
+.heading1{
+
+padding-bottom: 50px;
+
+   
+    
+}
+.main-box{
+    padding-left:250px;
+    padding-right:250px;
+}
+.types>h3{
+    display: inline-block;
+}
+.types{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.income{
+    color:rgb(71, 166, 83);
+    
+}
+.expense{
+    color:rgb(190, 55, 32)
+}
+.investment{
+    color:rgb(137, 116, 226);
+}
+.savings{
+    color: rgb(239, 191, 54);
+}
+.Transactionsbox{
+    padding-top: 100px;
+}
+.Transaction-main{
+    padding-top:50px ;
+}
+.user1{
+    display: flex;
+    justify-content: space-around;
+}
+.category{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo{
+  margin-left: 100px;
+}

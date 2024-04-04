@@ -1,0 +1,19 @@
+@use "_colors" as color1;
+@use "_colors2" as color2;
+
+@mixin customFunc($color){
+    background-color: $color;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer
+}
+
+.p1{
+    @include customFunc(color1.$red)
+}
+.p2{
+    @include customFunc(color1.$blue)
+}
+.p3{
+    @include customFunc(color1.$pink)
+}

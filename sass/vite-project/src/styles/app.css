@@ -1,0 +1,20 @@
+.p1 {
+  background-color: rgb(219, 44, 44);
+  padding: 1rem 2rem;
+  border: none;
+  cursor: pointer;
+}
+
+.p2 {
+  background-color: rgb(62, 62, 225);
+  padding: 1rem 2rem;
+  border: none;
+  cursor: pointer;
+}
+
+.p3 {
+  background-color: rgb(241, 19, 56);
+  padding: 1rem 2rem;
+  border: none;
+  cursor: pointer;
+}/*# sourceMappingURL=app.css.map */
